@@ -8,5 +8,6 @@
 ​	其中时频掩蔽部分采用了全卷积时域音频分析网络（Conv-TasNet）实现。
 
 ​	参考：https://github.com/naplab/Conv-TasNet
+https://github.com/leimao/Singing-Voice-Separation-RNN.git
 
 ​	如要使用代码，其中路径部分请自行更改
